@@ -3,6 +3,8 @@
 #pip install wordcloud
 #pip install fileupload
 #pip install ipywidgets
+
+#if u use jupyter 
 #jupyter nbextension install --py --user fileupload
 #jupyter nbextension enable --py fileupload
 
